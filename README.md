@@ -6,7 +6,7 @@ I've built it with Javascript upon the React.js framework. (and, of course, Node
 
 You will find that this works as a single page application. 
 
-##TESTERS##
+TESTERS
 
 Rather than write out an API, I've included a json file that simulates the output of one.
 
