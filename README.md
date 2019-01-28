@@ -13,4 +13,5 @@ Rather than write out an API, I've included a json file that simulates the outpu
 Please find './public/apiresult.json', and overwrite it with your test data.
 
 Best Regards,
+
 Vladimir Kuznetsov
